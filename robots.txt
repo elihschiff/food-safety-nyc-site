@@ -15,6 +15,3 @@ Allow: /*.jpeg
 Allow: /*.gif
 Allow: /*.svg
 Allow: /*.ico
-
-# Crawl-delay (optional, adjust as needed)
-Crawl-delay: 1
