@@ -1,0 +1,20 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Allow access to CSS and JS files
+Allow: /static/
+
+# Allow access to data files
+Allow: /data/
+
+# Allow access to images
+Allow: /*.png
+Allow: /*.jpg
+Allow: /*.jpeg
+Allow: /*.gif
+Allow: /*.svg
+Allow: /*.ico
+
+# Crawl-delay (optional, adjust as needed)
+Crawl-delay: 1
