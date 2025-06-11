@@ -1,67 +1,67 @@
 {
     "chunks": [
         {
-            "count": 3045,
-            "end_index": 3044,
+            "count": 3044,
+            "end_index": 3043,
             "filename": "data_chunk_1.json",
             "start_index": 0
         },
         {
-            "count": 3045,
-            "end_index": 6089,
+            "count": 3044,
+            "end_index": 6087,
             "filename": "data_chunk_2.json",
-            "start_index": 3045
-        },
-        {
-            "count": 3045,
-            "end_index": 9134,
-            "filename": "data_chunk_3.json",
-            "start_index": 6090
-        },
-        {
-            "count": 3045,
-            "end_index": 12179,
-            "filename": "data_chunk_4.json",
-            "start_index": 9135
-        },
-        {
-            "count": 3045,
-            "end_index": 15224,
-            "filename": "data_chunk_5.json",
-            "start_index": 12180
-        },
-        {
-            "count": 3045,
-            "end_index": 18269,
-            "filename": "data_chunk_6.json",
-            "start_index": 15225
-        },
-        {
-            "count": 3045,
-            "end_index": 21314,
-            "filename": "data_chunk_7.json",
-            "start_index": 18270
-        },
-        {
-            "count": 3045,
-            "end_index": 24359,
-            "filename": "data_chunk_8.json",
-            "start_index": 21315
-        },
-        {
-            "count": 3045,
-            "end_index": 27404,
-            "filename": "data_chunk_9.json",
-            "start_index": 24360
+            "start_index": 3044
         },
         {
             "count": 3044,
-            "end_index": 30448,
+            "end_index": 9131,
+            "filename": "data_chunk_3.json",
+            "start_index": 6088
+        },
+        {
+            "count": 3044,
+            "end_index": 12175,
+            "filename": "data_chunk_4.json",
+            "start_index": 9132
+        },
+        {
+            "count": 3044,
+            "end_index": 15219,
+            "filename": "data_chunk_5.json",
+            "start_index": 12176
+        },
+        {
+            "count": 3044,
+            "end_index": 18263,
+            "filename": "data_chunk_6.json",
+            "start_index": 15220
+        },
+        {
+            "count": 3044,
+            "end_index": 21307,
+            "filename": "data_chunk_7.json",
+            "start_index": 18264
+        },
+        {
+            "count": 3044,
+            "end_index": 24351,
+            "filename": "data_chunk_8.json",
+            "start_index": 21308
+        },
+        {
+            "count": 3044,
+            "end_index": 27395,
+            "filename": "data_chunk_9.json",
+            "start_index": 24352
+        },
+        {
+            "count": 3036,
+            "end_index": 30431,
             "filename": "data_chunk_10.json",
-            "start_index": 27405
+            "start_index": 27396
         }
     ],
-    "created_at": "2025-06-10T09:29:23.755119",
+    "created_at": "2025-06-11T09:29:05.923787",
     "total_chunks": 10,
-    "total_restaurants": 30449
+    "total_restaurants": 30432
 }

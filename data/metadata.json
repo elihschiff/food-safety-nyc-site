@@ -1,44 +1,44 @@
 {
     "bayesian_score_statistics": {
         "regular_bayesian_scores": {
-            "max": 58.07555940301278,
-            "mean": 17.030534759798467,
-            "median": 15.851820103298127,
-            "min": 5.008712707777698,
+            "max": 58.1012099202414,
+            "mean": 17.029319427639937,
+            "median": 15.849966161285895,
+            "min": 5.005633473725723,
             "percentiles": {
-                "25th": 13.966289411111397,
-                "50th": 15.851820103298127,
-                "75th": 19.157421966143378,
-                "90th": 23.088176282651094,
-                "95th": 25.8948778291154,
-                "99th": 32.06445042723026
+                "25th": 13.963864109923067,
+                "50th": 15.849966161285895,
+                "75th": 19.178030782515386,
+                "90th": 23.089754085782687,
+                "95th": 25.898566791427065,
+                "99th": 32.06515253484338
             },
-            "std": 4.537289670349453
+            "std": 4.538242285570311
         },
-        "restaurants_with_bayesian_scores": 27262,
+        "restaurants_with_bayesian_scores": 27229,
         "time_weighted_bayesian_scores": {
-            "restaurants_with_time_weighted_scores": 27262,
+            "restaurants_with_time_weighted_scores": 27229,
             "statistical_measures": {
-                "max": 58.07555940301278,
-                "mean": 17.033098112776667,
-                "median": 15.851820103298127,
-                "min": 4.925871622579277,
+                "max": 58.1012099202414,
+                "mean": 17.031832676020095,
+                "median": 15.849966161285897,
+                "min": 4.922773754348171,
                 "percentiles": {
-                    "25th": 13.957165134721187,
-                    "50th": 15.851820103298127,
-                    "75th": 19.150096209015665,
-                    "90th": 23.084943202432818,
-                    "95th": 25.881294352834885,
-                    "99th": 32.07826024919323
+                    "25th": 13.954077018255841,
+                    "50th": 15.849966161285897,
+                    "75th": 19.1522982550604,
+                    "90th": 23.08578414514342,
+                    "95th": 25.884797420977726,
+                    "99th": 32.06858817176494
                 },
-                "std": 4.538059590225652
+                "std": 4.5389780836166915
             }
         }
     },
     "inspection_statistics": {
         "inspections_per_restaurant": {
             "max": 15,
-            "mean": 2.6946040920884102,
+            "mean": 2.6921990010515247,
             "median": 3.0,
             "min": 0,
             "percentiles": {
@@ -48,34 +48,34 @@
                 "90th": 5.0,
                 "95th": 5.0
             },
-            "std": 1.6705496395324932
+            "std": 1.671003440684439
         },
-        "restaurants_with_grades": 27267,
-        "restaurants_with_inspections": 27267,
-        "restaurants_with_scores": 81354,
-        "total_inspections": 82048
+        "restaurants_with_grades": 27234,
+        "restaurants_with_inspections": 27234,
+        "restaurants_with_scores": 81236,
+        "total_inspections": 81929
     },
-    "last_updated": "2025-06-10T09:29:19.416088",
+    "last_updated": "2025-06-11T09:29:01.691488",
     "restaurants_by_borough": {
-        "Bronx": 2557,
-        "Brooklyn": 7833,
-        "Manhattan": 11982,
-        "Queens": 6951,
-        "Staten Island": 1126
+        "Bronx": 2553,
+        "Brooklyn": 7832,
+        "Manhattan": 11979,
+        "Queens": 6944,
+        "Staten Island": 1124
     },
     "restaurants_by_grade": {
-        "A": 21432,
+        "A": 21405,
         "B": 1815,
-        "C": 652,
-        "Closed": 83,
-        "Grade Pending": 1257,
-        "Not Yet Graded": 2028
+        "C": 648,
+        "Closed": 90,
+        "Grade Pending": 1252,
+        "Not Yet Graded": 2024
     },
     "score_statistics": {
-        "restaurants_with_scores": 81354,
+        "restaurants_with_scores": 81236,
         "statistical_measures": {
             "max": 168.0,
-            "mean": 17.281276888659438,
+            "mean": 17.280011325028312,
             "median": 12.0,
             "min": 0.0,
             "percentiles": {
@@ -86,9 +86,9 @@
                 "95th": 45.0,
                 "99th": 70.0
             },
-            "std": 14.402616541418357
+            "std": 14.40462852490268
         },
-        "total_scores": 81354
+        "total_scores": 81236
     },
-    "total_restaurants": 30449
+    "total_restaurants": 30432
 }
