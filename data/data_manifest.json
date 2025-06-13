@@ -1,67 +1,67 @@
 {
     "chunks": [
         {
-            "count": 3041,
-            "end_index": 3040,
+            "count": 3037,
+            "end_index": 3036,
             "filename": "data_chunk_1.json",
             "start_index": 0
         },
         {
-            "count": 3041,
-            "end_index": 6081,
+            "count": 3037,
+            "end_index": 6073,
             "filename": "data_chunk_2.json",
-            "start_index": 3041
+            "start_index": 3037
         },
         {
-            "count": 3041,
-            "end_index": 9122,
+            "count": 3037,
+            "end_index": 9110,
             "filename": "data_chunk_3.json",
-            "start_index": 6082
+            "start_index": 6074
         },
         {
-            "count": 3041,
-            "end_index": 12163,
+            "count": 3037,
+            "end_index": 12147,
             "filename": "data_chunk_4.json",
-            "start_index": 9123
+            "start_index": 9111
         },
         {
-            "count": 3041,
-            "end_index": 15204,
+            "count": 3037,
+            "end_index": 15184,
             "filename": "data_chunk_5.json",
-            "start_index": 12164
+            "start_index": 12148
         },
         {
-            "count": 3041,
-            "end_index": 18245,
+            "count": 3037,
+            "end_index": 18221,
             "filename": "data_chunk_6.json",
-            "start_index": 15205
+            "start_index": 15185
         },
         {
-            "count": 3041,
-            "end_index": 21286,
+            "count": 3037,
+            "end_index": 21258,
             "filename": "data_chunk_7.json",
-            "start_index": 18246
+            "start_index": 18222
         },
         {
-            "count": 3041,
-            "end_index": 24327,
+            "count": 3037,
+            "end_index": 24295,
             "filename": "data_chunk_8.json",
-            "start_index": 21287
+            "start_index": 21259
         },
         {
-            "count": 3041,
-            "end_index": 27368,
+            "count": 3037,
+            "end_index": 27332,
             "filename": "data_chunk_9.json",
-            "start_index": 24328
+            "start_index": 24296
         },
         {
-            "count": 3033,
-            "end_index": 30401,
+            "count": 3030,
+            "end_index": 30362,
             "filename": "data_chunk_10.json",
-            "start_index": 27369
+            "start_index": 27333
         }
     ],
-    "created_at": "2025-06-12T09:29:02.224322",
+    "created_at": "2025-06-13T09:28:58.806759",
     "total_chunks": 10,
-    "total_restaurants": 30402
+    "total_restaurants": 30363
 }
