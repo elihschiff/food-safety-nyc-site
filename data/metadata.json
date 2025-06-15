@@ -19,7 +19,7 @@
         "time_weighted_bayesian_scores": {
             "restaurants_with_time_weighted_scores": 27126,
             "statistical_measures": {
-                "max": 58.11388347139718,
+                "max": 58.11388347139717,
                 "mean": 17.035965967156827,
                 "median": 15.85344673408183,
                 "min": 4.923154600899316,
@@ -28,7 +28,7 @@
                     "50th": 15.85344673408183,
                     "75th": 19.170383444321352,
                     "90th": 23.105291284799904,
-                    "95th": 25.882614323830268,
+                    "95th": 25.88261432383027,
                     "99th": 32.0577772279987
                 },
                 "std": 4.539926573304478
@@ -55,7 +55,7 @@
         "restaurants_with_scores": 81038,
         "total_inspections": 81735
     },
-    "last_updated": "2025-06-14T09:27:31.198776",
+    "last_updated": "2025-06-15T09:26:23.979394",
     "restaurants_by_borough": {
         "Bronx": 2552,
         "Brooklyn": 7816,
